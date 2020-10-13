@@ -65,4 +65,4 @@
 * pfdevilliers - https://github.com/pfdevilliers
   * Pretty Vim Python
   
-#### Special Thanks to alxyang - https://github.com/alxyang for letting me use his files as templates and for helping me get set up.
+#### .dotfiles base template taken from https://github.com/bgenchel with permission
